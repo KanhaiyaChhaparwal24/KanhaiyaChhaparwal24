@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Kanhaiya Chhaparwal</h1>
-<h3 align="center">3rd year B.Tech engineering student at SVNIT, Surat. Working at the intersection of AI, web development, and system-level programming, with hands-on focus in deep learning and computer vision. I build things that matter: university management tools, security prototypes, and cultural/space-themed web experiences. Always shipping, always learning.</h3>
+<h3 align="center">3rd year B.Tech engineering student at SVNIT, Surat. Working at the intersection of AI, web development, and system-level programming, with hands-on focus in deep learning and computer vision. I enjoy building practical, impactful projects and constantly exploring new technologies. Always shipping, always learning.</h3>
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/KanhaiyaChhaparwal24">Github </a>
 - 📫 How to reach me <a href="mailto:kanhaiyaac24@gmail.com">Email</a>
