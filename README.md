@@ -33,8 +33,6 @@
 
 ###
 
-<br/>
-
 <div align="center">
   <h2>🚀 About Me</h2>
   <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin: 16px auto; max-width: 600px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; line-height: 1.6; color: #e6edf3; text-align: left;">
