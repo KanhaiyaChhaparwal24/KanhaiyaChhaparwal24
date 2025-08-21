@@ -18,6 +18,9 @@
   <a href="https://discord.com/users/1271789230674280468" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+  <a href="https://leetcode.com/u/kanhaiya2406/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="52" height="40" alt="leetcode logo" />
+  </a>
 </div>
 
 ###
@@ -62,8 +65,14 @@
 
 ###
 
+<h3 align="left">📊 Coding Stats</h3>
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KanhaiyaChhaparwal24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img width="20" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=kanhaiya2406&theme=dark" height="150" alt="leetcode stats" />
 </div>
 
 ###
