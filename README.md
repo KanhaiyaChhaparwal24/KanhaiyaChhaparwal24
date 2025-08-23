@@ -81,35 +81,28 @@
   <h2>🔥 My Stats</h2>
   
   <!-- Animated Project Counter -->
-  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 25px; margin: 20px auto; max-width: 500px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); border: 2px solid rgba(255,255,255,0.1);">
-    <h3 style="color: #ffffff; margin-bottom: 20px; font-family: 'Arial Black', sans-serif; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">📊 Project Portfolio</h3>
+  <div align="center">
+    <h3>📊 Project Portfolio</h3>
     
-    <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; gap: 15px;">
-      <!-- Completed Projects -->
-      <div style="text-align: center; background: rgba(255,255,255,0.15); border-radius: 15px; padding: 15px 20px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2); min-width: 140px;">
-        <div style="color: #4CAF50; font-size: 28px; font-weight: bold; font-family: 'Courier New', monospace; margin-bottom: 5px;">
-          <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&weight=700&size=32&duration=4000&pause=2000&color=4CAF50&center=true&vCenter=true&width=60&height=40&lines=0;1;2;3;4;5;6;7;8" alt="completed projects" style="vertical-align: middle;" />
-        </div>
-        <div style="color: #ffffff; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">✅ Completed</div>
-      </div>
-      
-      <!-- Ongoing Projects -->
-      <div style="text-align: center; background: rgba(255,255,255,0.15); border-radius: 15px; padding: 15px 20px; backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.2); min-width: 140px;">
-        <div style="color: #FF9800; font-size: 28px; font-weight: bold; font-family: 'Courier New', monospace; margin-bottom: 5px;">
-          <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&weight=700&size=32&duration=2000&pause=2000&color=FF9800&center=true&vCenter=true&width=60&height=40&lines=0;1;2" alt="ongoing projects" style="vertical-align: middle;" />
-        </div>
-        <div style="color: #ffffff; font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px;">🚧 Ongoing</div>
-      </div>
-    </div>
+  <table>
+  <tr>
+  <td align="center" width="200">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&weight=700&size=40&duration=4000&pause=2000&color=4CAF50&center=true&vCenter=true&width=100&height=60&lines=0;1;2;3;4;5;6;7;8" alt="completed projects" />
+  <br/>
+  <strong>✅ Completed Projects</strong>
+  </td>
+  <td align="center" width="200">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&weight=700&size=40&duration=2000&pause=2000&color=FF9800&center=true&vCenter=true&width=100&height=60&lines=0;1" alt="ongoing projects" />
+  <br/>
+  <strong>🚧 Ongoing Projects</strong>
+  </td>
+  </tr>
+  </table>
     
-    <!-- Progress Bar -->
-    <div style="margin-top: 20px;">
-      <div style="background: rgba(255,255,255,0.2); height: 8px; border-radius: 4px; overflow: hidden;">
-        <div style="background: linear-gradient(90deg, #4CAF50 0%, #8BC34A 100%); height: 100%; width: 80%; border-radius: 4px; animation: progressFill 2s ease-out;"></div>
-      </div>
-      <div style="color: #ffffff; font-size: 11px; margin-top: 5px; opacity: 0.8;">Portfolio Progress: 80% Complete</div>
-    </div>
+  <img src="https://progress-bar.dev/80/?title=Portfolio%20Progress&width=400&color=4CAF50" alt="Portfolio Progress" />
   </div>
+  
+  <br/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanhaiyaChhaparwal24&langs_count=8&count_private=true&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
