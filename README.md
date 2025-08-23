@@ -80,30 +80,6 @@
 <div align="center">
   <h2>🔥 My Stats</h2>
   
-  <!-- Animated Project Counter -->
-  <div align="center">
-    <h3>📊 Project Portfolio</h3>
-    
-  <table>
-  <tr>
-  <td align="center" width="200">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&weight=700&size=40&duration=4000&pause=2000&color=4CAF50&center=true&vCenter=true&width=100&height=60&lines=0;1;2;3;4;5;6;7;8" alt="completed projects" />
-  <br/>
-  <strong>✅ Completed Projects</strong>
-  </td>
-  <td align="center" width="200">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&weight=700&size=40&duration=2000&pause=2000&color=FF9800&center=true&vCenter=true&width=100&height=60&lines=0;1" alt="ongoing projects" />
-  <br/>
-  <strong>🚧 Ongoing Projects</strong>
-  </td>
-  </tr>
-  </table>
-    
-  <img src="https://progress-bar.dev/80/?title=Portfolio%20Progress&width=400&color=4CAF50" alt="Portfolio Progress" />
-  </div>
-  
-  <br/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanhaiyaChhaparwal24&langs_count=8&count_private=true&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
@@ -160,6 +136,7 @@
       📚 <span style="color: #ffeb3b;">Learning:</span> NLP, ROS2 basics with Gazebo<br/>
       🔬 <span style="color: #ffeb3b;">Research:</span> Deep Learning for Robotics & NLP<br/>
       💰 <span style="color: #ffeb3b;">Finance:</span> Market Analysis, Case Studies, Sector Research<br/>
+      📊 <span style="color: #ffeb3b;">Exploring:</span> Quantitative Finance & Financial Modeling<br/>
       🤝 <span style="color: #ffeb3b;">Open to:</span> Collaboration on AI/ML & FinTech projects
     </div>
   </div>
