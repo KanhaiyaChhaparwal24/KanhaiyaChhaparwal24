@@ -39,6 +39,8 @@
     I'm Kanhaiya, a 3rd-year AI student at SVNIT Surat and currently working as an AI Research Intern at InGen Dynamics. I like to work at the intersection of real-world problems and AI-driven solutions, building projects that have tangible impact.
     <br/><br/>
     I've developed systems for object detection, financial insights, and real-time model deployment. I enjoy breaking down complex problems and creating solutions that actually work. I'm passionate about applying AI to areas like healthcare and finance, where technology can make a real difference.
+    <br/><br/>
+    Beyond AI, I'm deeply interested in finance - studying markets, analyzing case studies, and conducting sector analysis. I believe the combination of AI and financial expertise creates powerful opportunities for innovation.
   </div>
 </div>
 
@@ -128,11 +130,14 @@
 <div align="center">
   <h2>🎯 Current Focus</h2>
   
-  ```yaml
-  📚 Learning: NLP, ROS2 basics with Gazebo
-  🔬 Research: Deep Learning for Robotics & NLP
-  🤝 Open to: Collaboration on AI/ML projects
-  ```
+  <div style="font-family: 'Courier New', monospace; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; margin: 20px auto; max-width: 600px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
+    <div style="color: #ffffff; font-size: 16px; font-weight: bold; text-align: left; line-height: 2;">
+      📚 <span style="color: #ffeb3b;">Learning:</span> NLP, ROS2 basics with Gazebo<br/>
+      🔬 <span style="color: #ffeb3b;">Research:</span> Deep Learning for Robotics & NLP<br/>
+      💰 <span style="color: #ffeb3b;">Finance:</span> Market Analysis, Case Studies, Sector Research<br/>
+      🤝 <span style="color: #ffeb3b;">Open to:</span> Collaboration on AI/ML & FinTech projects
+    </div>
+  </div>
 </div>
 
 ###
