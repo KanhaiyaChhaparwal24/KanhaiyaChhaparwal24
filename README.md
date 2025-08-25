@@ -136,7 +136,6 @@
       📚 <span style="color: #ffeb3b;">Learning:</span> NLP, ROS2 basics with Gazebo<br/>
       🔬 <span style="color: #ffeb3b;">Research:</span> Deep Learning for Robotics & NLP<br/>
       💰 <span style="color: #ffeb3b;">Finance:</span> Market Analysis, Case Studies, Sector Research<br/>
-      📊 <span style="color: #ffeb3b;">Exploring:</span> Quantitative Finance & Financial Modeling<br/>
       🤝 <span style="color: #ffeb3b;">Open to:</span> Collaboration on AI/ML & FinTech projects
     </div>
   </div>
