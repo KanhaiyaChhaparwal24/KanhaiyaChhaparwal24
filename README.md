@@ -118,7 +118,7 @@
 ###
 
 <br/>
-<!--
+
 <div align="center">
   <h2>🏆 LeetCode Journey</h2>
   <img src="https://leetcard.jacoblin.cool/kanhaiya2406?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
@@ -127,7 +127,7 @@
 </div>
 
 ###
--->
+
 <div align="center">
   <h2>🎯 Current Focus</h2>
   
