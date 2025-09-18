@@ -82,9 +82,9 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanhaiyaChhaparwal24&langs_count=8&count_private=true&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
--->
-###
 
+###
+-->
 <div align="center">
   <h2>💻 Tech Stack</h2>
 
@@ -125,15 +125,15 @@
   <br/>
   
 </div>
--->
-###
 
+###
+-->
 <div align="center">
   <h2>🎯 Current Focus</h2>
   
   <div style="font-family: 'Courier New', monospace; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; margin: 20px auto; max-width: 600px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
     <div style="color: #ffffff; font-size: 16px; font-weight: bold; text-align: left; line-height: 2;">
-      📚 <span style="color: #ffeb3b;">Learning:</span> NLP, ROS2 basics with Gazebo<br/>
+      📚 <span style="color: #ffeb3b;">Learning:</span> NLP, ROS2 basics with Gazebo, Data Serialization<br/>
       🔬 <span style="color: #ffeb3b;">Research:</span> Deep Learning for Robotics & NLP<br/>
       💰 <span style="color: #ffeb3b;">Finance:</span> Market Analysis, Case Studies, Sector Research<br/>
       🤝 <span style="color: #ffeb3b;">Open to:</span> Collaboration on AI/ML & FinTech projects
