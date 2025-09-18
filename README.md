@@ -76,13 +76,13 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
   <h2>🔥 My Stats</h2>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanhaiyaChhaparwal24&langs_count=8&count_private=true&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
-
+-->
 ###
 
 <div align="center">
@@ -118,14 +118,14 @@
 ###
 
 <br/>
-
+<!--
 <div align="center">
   <h2>🏆 LeetCode Journey</h2>
   <img src="https://leetcard.jacoblin.cool/kanhaiya2406?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
   <br/>
   
 </div>
-
+-->
 ###
 
 <div align="center">
