@@ -83,7 +83,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanhaiyaChhaparwal24&langs_count=8&count_private=true&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div> 
 -->
+
 ###
+
 <div align="center">
   <h2>💻 Tech Stack</h2>
 
