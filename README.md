@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">🤖 B.Tech in Artificial Intelligence | SVNIT Surat |</h3>
-<h3 align="center">🔬 AI Research Intern @ InGen Dynamics</h3>
+<h3 align="center">🔬 AI Research Intern @ inGen Dynamics</h3>
 
 ###
 
