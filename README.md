@@ -42,7 +42,7 @@
     I’ve worked on legacy system redeployment, microservices-based ML infrastructure, and model optimization pipelines. 
     I'm particularly interested in scalable ML deployment, backend integration, and the intersection of AI with finance and robotics.
     <br/><br/>
-    I enjoy working close to the system level — debugging, optimizing, and making models production-ready.
+    I enjoy working close to the system level — debugging services, optimizing inference pipelines, and making models production-ready.
   </div>
 </div>
 
@@ -53,35 +53,35 @@
   
   <div align="left">
 
-  ### 🏦 **Indian Banking Sector Analysis** - Financial Analytics Web App
-  > *Data-driven financial analytics platform for investor-focused banking sector insights*
-  
-  - 📊 Performed multi-year financial analysis (2019–2024) of top Indian banks by extracting and cleaning real industry data from Screener.in and market sources using Python and Pandas  
-  - 📈 Engineered key banking KPIs including **ROA, ROE, CASA, GNPA/NNPA**, profitability growth metrics, stock returns, volatility, and risk-return ratios  
-  - 📉 Combined financial ratios with market performance metrics to assess investment suitability  
-  - 🌐 Built and deployed a multi-page **Streamlit dashboard** with interactive visualizations for real-time financial comparison and trend analysis  
+  ### 🏦 **Indian Banking Sector Analysis** - Financial Analytics Web App  
+> Data-driven financial analytics platform for investor-focused sector insights
+
+- 📊 Performed multi-year financial analysis (2019–2024) of leading Indian banks using Python and Pandas  
+- 📈 Computed key financial KPIs (ROA, ROE, growth metrics) combined with stock return and risk analysis  
+- 🌐 Built and deployed an interactive Streamlit dashboard with dynamic KPI filtering and trend visualization    
     
-  ### 🏗️ **IntelliStack** - AI Infrastructure Platform
-  > *Microservices-based AI platform for scalable model deployment and real-time inference*
-   - 🚀 Multi-model support with simultaneous deployment capability
-   - 🔗 15+ RESTful API endpoints with WebSocket integration
-   - ⚡ Fast response times with optimized inference pipeline
-   - 🔧 Dynamic model switching with custom configuration modules
+  ### 🏗️ **IntelliStack** - Scalable ML Deployment Platform  
+> Microservices-based infrastructure for real-time model serving
+
+- 🚀 Designed a scalable AI infrastructure supporting deployment of 5+ ML models   
+- 🔗 Built 15+ REST API endpoints with WebSocket integration  
+- ⚡ Achieved sub-200ms inference latency with optimized service routing  
+- 📦 Enabled dynamic model switching through modular configuration  
   
-  ### 👁️ **BeverageVision Insights** - Computer Vision System
-  > *Image-based detection system for branded cold drink bottles using YOLOv8*
-  - 🎯 **87% detection accuracy** across 15+ beverage categories
-  - ⚡ **45ms inference speed** per image with optimized pipelines
-  - 🖥️ Built with PyTorch backend and Tkinter GUI
-  - 📊 Real-time brand classification system
-  
+ ### 👁️ **BeverageVision Insights** - Real-Time Computer Vision System  
+> YOLOv8-based branded beverage detection system
+
+- 🎯 Achieved 87% detection accuracy across 15+ beverage categories  
+- ⚡ Optimized inference to 45ms per image  
+- 🖥️ Built PyTorch backend with Tkinter-based visualization interface  
+  <!--
   ### 🚗 **CarValuator** - ML Price Prediction
   > *Machine learning web app for car resale price estimation*
   - 📈 **92% R² accuracy** using advanced regression models
   - 💾 Processed **10,000+ car records** for training
   - 🌐 Responsive Flask web interface with Bootstrap styling
   - 🔧 Feature engineering with categorical encoding and normalization
-  
+  -->
   </div>
 </div>
 <!--
@@ -99,29 +99,26 @@
 <div align="center">
   <h2>💻 Tech Stack</h2>
 
-**Programming Languages**
+**Programming**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp" />
 <br/>
 
-**AI/ML & Data Science**
+**Machine Learning**
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="opencv" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48" alt="scikit-learn" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48" />
 <br/>
 
-**Web Development & APIs**
+**Backend & Deployment**
 <br/>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" alt="bootstrap" />
+<img src="https://skillicons.dev/icons?i=flask,docker" />
 <br/>
 
-**Database & Tools**
+**Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,github,vscode" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 <br/>
 
 </div>
@@ -141,13 +138,12 @@
 
 <div align="center">
   <h2>🎯 Current Focus</h2>
-  
-  <div style="font-family: 'Courier New', monospace; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; margin: 20px auto; max-width: 600px; box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
+  <div style="font-family: 'Courier New', monospace; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 25px; margin: 20px auto; max-width: 600px;">
     <div style="color: #ffffff; font-size: 16px; font-weight: bold; text-align: left; line-height: 2;">
-      📚 <span style="color: #ffeb3b;">Learning:</span> React, CI/CD pipelines, Data Serialization, ROS2 <br/>
-      🔬 <span style="color: #ffeb3b;">Exploring:</span> Scalable ML deployment in real-world robotic systems<br/>
-      💰 <span style="color: #ffeb3b;">Finance:</span> Market Analysis, Case Studies, Sector Research<br/>
-      🤝 <span style="color: #ffeb3b;">Open to:</span> Building AI/ML and FinTech systems with real-world impact
+      📦 <span style="color: #ffeb3b;">ML Deployment:</span> Microservices, API-based model serving, serialization (Protobuf)<br/>
+      🤖 <span style="color: #ffeb3b;">Robotics:</span> Exploring ROS & Gazebo simulation frameworks<br/>
+      💰 <span style="color: #ffeb3b;">Finance:</span> Quantitative sector analysis & AI-driven financial systems<br/>
+      🚀 <span style="color: #ffeb3b;">Goal:</span> Building production-ready AI systems with measurable impact
     </div>
   </div>
 </div>
