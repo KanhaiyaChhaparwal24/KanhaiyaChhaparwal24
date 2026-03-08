@@ -36,11 +36,13 @@
 <div align="center">
   <h2>🚀 About Me</h2>
   <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin: 16px auto; max-width: 600px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 14px; line-height: 1.6; color: #e6edf3; text-align: left;">
-    I'm Kanhaiya, a 3rd-year AI student at SVNIT Surat and currently working as an AI Research Intern at InGen Dynamics. I like to work at the intersection of real-world problems and AI-driven solutions, building projects that have tangible impact.
+    I'm a 3rd-year Artificial Intelligence student at SVNIT Surat and currently an AI Research Intern at InGen Dynamics. 
+    My work focuses on building and deploying real-world ML systems — not just training models, but understanding architecture, runtime configuration, and service communication.
     <br/><br/>
-    I've developed systems for object detection, financial insights, and real-time model deployment. I enjoy breaking down complex problems and creating solutions that actually work. I'm passionate about applying AI to areas like healthcare and finance, where technology can make a real difference.
+    I’ve worked on legacy system redeployment, microservices-based ML infrastructure, and model optimization pipelines. 
+    I'm particularly interested in scalable ML deployment, backend integration, and the intersection of AI with finance and robotics.
     <br/><br/>
-    Beyond AI, I'm deeply interested in finance - studying markets, analyzing case studies, and conducting sector analysis. I believe the combination of AI and financial expertise creates powerful opportunities for innovation.
+    I enjoy working close to the system level — debugging, optimizing, and making models production-ready.
   </div>
 </div>
 
