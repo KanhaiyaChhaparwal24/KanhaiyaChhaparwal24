@@ -50,7 +50,15 @@
   <h2>🔥 Featured Projects</h2>
   
   <div align="left">
+
+  ### 🏦 **Indian Banking Sector Analysis** - Financial Analytics Web App
+  > *Data-driven financial analytics platform for investor-focused banking sector insights*
   
+  - 📊 Performed multi-year financial analysis (2019–2024) of top Indian banks by extracting and cleaning real industry data from Screener.in and market sources using Python and Pandas  
+  - 📈 Engineered key banking KPIs including **ROA, ROE, CASA, GNPA/NNPA**, profitability growth metrics, stock returns, volatility, and risk-return ratios  
+  - 📉 Combined financial ratios with market performance metrics to assess investment suitability  
+  - 🌐 Built and deployed a multi-page **Streamlit dashboard** with interactive visualizations for real-time financial comparison and trend analysis  
+    
   ### 🏗️ **IntelliStack** - AI Infrastructure Platform
   > *Microservices-based AI platform for scalable model deployment and real-time inference*
    - 🚀 Multi-model support with simultaneous deployment capability
